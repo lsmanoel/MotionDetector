@@ -118,5 +118,5 @@ class MotionSense:
 
 
 # test = MotionSense()
-test = MotionSense(video="./video_dataset/walk_1.mp4")
+test = MotionSense(video="./video_dataset/traffic_4.mp4")
 test.run()
